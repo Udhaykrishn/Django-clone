@@ -1,0 +1,12 @@
+:root {
+  --navbar-bg: #0c4b33;
+  --navbar-tagline: #44b78b;
+  --primary-color: #44b78b;
+  --primary-hover-color: #44b78b;
+  --primary-white-color: #c1c7cc;
+  --primary-text-color: rgb(147, 215, 183);
+  --primary-text-family: Roboto, Corbel, Avenir, "Lucida Grande", "Lucida Sans",
+    sans-serif;
+  --primary-text-weight-700: 700;
+  --primary-text-weight-400: 400;
+}
